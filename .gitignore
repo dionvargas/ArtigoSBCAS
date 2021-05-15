@@ -122,3 +122,10 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# DataBase
+*.hdf5
+
+# Bib and other Folders
+.idea/
+sfe/
